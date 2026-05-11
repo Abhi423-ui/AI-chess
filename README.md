@@ -10,11 +10,9 @@ A fully playable Chess AI built using Reinforcement Learning concepts:
 
 ---
 
-## 🚀 Deploy to Streamlit Cloud (Global Link)
+## 🚀 Deployed on Streamlit Cloud (Global Link)
 
-### Prerequisites
-- GitHub account
-- Streamlit Cloud account (free at https://share.streamlit.io)
+(https://ai-chess-gpjiwxldkv5csqkavdo8ac.streamlit.app/)
 
 ### Step 1 — Initialize Git & Push to GitHub
 ```bash
