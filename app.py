@@ -606,7 +606,7 @@ with col_board:
     # Move input
     if not st.session_state.game_over and board.turn == st.session_state.player_color:
         st.markdown("**Enter Move** *(UCI format: e2e4, g1f3, e1g1 for castling)*")
-        user_input = st.text_input("", placeholder="e.g. e2e4", key="move_input", label_visibility="collapsed")
+        user_input = st.text_input("Move", placeholder="e.g. e2e4", key="move_input", label_visibility="collapsed")
 
         c1, c2 = st.columns(2)
         with c1:

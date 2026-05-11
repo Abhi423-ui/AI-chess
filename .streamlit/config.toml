@@ -21,4 +21,3 @@ level = "info"
 
 [global]
 developmentMode = false
-dataFrameSerialization = "arrow"
